@@ -1,3 +1,6 @@
+# naive implementation of JS hash table in coffeescript
+# does not handle collisions
+
 class MyHash
   valStore: []
   max: 999
